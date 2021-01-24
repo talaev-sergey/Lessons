@@ -132,12 +132,12 @@ a {
   font-size: 18px;
 }
 
-p {
+.paragraf {
   padding-left: 180px;
   margin-bottom: 20px;
 }
 
-figure {
+.layout-images{
   display: inline-block;
   padding-left: 200px;
   margin-top: 50px;
