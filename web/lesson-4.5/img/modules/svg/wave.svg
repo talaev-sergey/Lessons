@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1027" width="1920" height="1027">
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="M0 -1234L1920 -1234L1920 1027L0 1027Z" />
+		</clipPath>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #2f1ce4 } 
+	</style>
+	<g id="2/2 копия" clip-path="url(#cp1)">
+		<path id="Фигура 1" class="shp0" d="M-2 1030C-2 1030 328 478 864 594C1400 710 1912 34 1918 18C1924 2 1922 1028 1922 1028L-2 1030Z" />
+	</g>
+</svg>
